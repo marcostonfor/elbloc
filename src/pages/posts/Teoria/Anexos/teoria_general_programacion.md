@@ -24,7 +24,7 @@ Un paradigma de programación es un estilo o forma de escribir programas. Aquí 
    - **Descripción**: Se centra en cómo lograr la tarea a través de instrucciones paso a paso.
    - **Ejemplos**: C, C++
    
-2. **Programación Orientada a Objetos (POO)**:->[POO detalle](./poo_java.md)
+2. **Programación Orientada a Objetos (POO)**:->[POO detalle](./poo_java)
    - **Descripción**: Se organiza en objetos que contienen datos y métodos.
    - **Ejemplos**: Java, C#, Python
    
